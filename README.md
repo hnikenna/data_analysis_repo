@@ -1,6 +1,6 @@
 # Data Analysis With Python
 
-Below are few projects I have developed pertaining to Data Analysis, 
+Here are a few projects I have developed pertaining to Data Analysis, 
 Machine Learning and Artificial Intelligence
 ---
 ### Table of content
