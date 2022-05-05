@@ -1,9 +1,9 @@
-#Data Analysis With Python
+# Data Analysis With Python
 
 Below are few projects I have developed pertaining to Data Analysis, 
 Machine Learning and Artificial Intelligence
 ---
-###Table of content
+### Table of content
 * Demographic Data Analyzer
 * Mean-Variance-Standard Deviation Calculator
 * Medical Data Visualizer
