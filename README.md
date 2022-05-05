@@ -9,6 +9,7 @@ Machine Learning and Artificial Intelligence
 * Medical Data Visualizer
 * Page View Time Series Visualizer
 * Sea Level Predictor
+* Hand Recognition AI
 
 [Demographic Data Analyzer](demographic_data_analyzer.py): 
 In this project, I analyzed demographic data using **Pandas** 
@@ -36,3 +37,7 @@ understand the patterns in visits and identify yearly and monthly growth.
 [Sea Level Predictor](sea_level_predictor.py):
 I analyzed a dataset of the global average sea level change since 1880. 
 I used the data to predict the sea level change through year 2050.
+
+[Hand Recognition AI](hand_recognition_AI.py):
+This project uses **CV2** and **Mediapipe** to detect hand movement and gestures 
+displayed from the camera recorded
